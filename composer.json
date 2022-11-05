@@ -1,0 +1,21 @@
+{
+    "name": "esyede/matematika",
+    "description": "Simple mathematical equation parser for PHP",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Esyede\\Matematika\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "esyede",
+            "email": "suyadi.1992@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": "^5.4.0"
+    }
+}
